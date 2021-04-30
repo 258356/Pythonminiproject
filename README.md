@@ -14,9 +14,12 @@
 
 ## Contributors List and Summary
 
+
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|
--------|---------|----------------|----------------|---------------|-------
-`258331` | Anant Gandhi  | Implementation of a basic game| No     | No   | 
+-------|---------|----------------|----------------|---------------|
+`258331` | Aranshu Bansal  | Scientific Calculator   | No     | No | 
+ 
+
    
 
 ## Challenges Faced and How Was It Overcame
