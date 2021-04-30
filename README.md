@@ -17,7 +17,7 @@
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|
 -------|---------|----------------|----------------|---------------|
-`258331` | Aranshu Bansal  | Scientific Calculator   | No     | No | 
+`258356` | Anant Gandhi | Game Implementation  | No     | No | 
  
 
    
